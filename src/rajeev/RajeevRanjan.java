@@ -9,5 +9,8 @@ package rajeev;
  * @author Rajeev kumar
  */
 public class RajeevRanjan {
-    
+    public static void main(String[] args) {
+        System.out.println("Rajeev kumar");
+    }
+            
 }
